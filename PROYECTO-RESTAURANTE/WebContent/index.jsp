@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Peruvian Sweets</h1>
-<h2>Resturante</h2>
+<h2>Restaurante</h2>
 </body>
 </html>
